@@ -16,9 +16,13 @@
 title: Multi-Sensor Mesh Network for Agricultural Analysis
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  As the world's food demand increases, farmers require more analytics in order to make better decisions. 
+  The team’s plan is to design, build, and test the proof of concept for a multi-sensor platform that will collect data
+  on soil humidity, soil pH, and soil temperature. This system is intended to be as affordable and accurate as possible.
+  The scope of this project is interesting, because while this team is small, the technology they're working on has many
+  potential uses worldwide. This means that the team’s work could become a well cited/referenced example of automated
+  farming technology as the field of automated farming expands. 
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
