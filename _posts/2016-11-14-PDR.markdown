@@ -1,7 +1,8 @@
 ---
 layout: post
-title: PDR-draft
-date: 2016-11-14 12:43:44 -0800
+title: PDR
+date: 2016-11-14 12:43:44 +0000
+permalink: /PDR/
 ---
 
 **Carson! This document will need EXTENSIVE edits to be markdown presentable.**
