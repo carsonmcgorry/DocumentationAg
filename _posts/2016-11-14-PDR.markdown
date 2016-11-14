@@ -6,10 +6,17 @@ permalink: /PDR/
 ---
 
 **Carson! This document will need EXTENSIVE edits to be markdown presentable.**
+
 also this might be a table:
 |title|title|
 |-----|-----|
 |data|data|
+
+|How|Will|This|Look|?|
+|---|---|---|---|---|
+|Let's|Find|Out|:)|!|
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 Agricultural Multi-Sensor Nodal Network with Mesh Network Wireless Communication Topology
